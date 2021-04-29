@@ -1,6 +1,7 @@
 {
   "name": "l7",
   "private": true,
+  "version": "2.3.9",
   "repository": {
     "type": "git",
     "url": "https://github.com/antvis/L7"
